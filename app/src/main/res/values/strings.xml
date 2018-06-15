@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Gocharge</string>
+    <string name="poi_search_hint">输入搜索关键字</string>
+    <string name="poi_search_my_location">我的位置</string>
+    <string name="poi_search_collect_location">收藏的点</string>
+    <string name="poi_search_choose_location_from_map">地图选点</string>
+    <string name="no_result">对不起，没有搜索到相关数据！</string>
+    <string name="radio_choose">筛选</string>
+    <string name="route_plan_default">推荐方案</string>
+    <string name="route_plan_plan2">方案二</string>
+    <string name="route_plan_plan3">方案三</string>
+    <string name="route_plan_navi_amap">高德地图</string>
+    <string name="route_plan_navi_amap_not">高德地图(未安装)</string>
+    <string name="route_plan_navi_bmap">百度地图</string>
+    <string name="route_plan_navi_bmap_not">百度地图(未安装)</string>
+    <string name="route_plan_start_navi">开始导航</string>
+    <string name="route_plan_path_traffic_lights">红绿灯%1$s个</string>
+    <string name="poi_search_error">搜索出错</string>
+    <string name="NoAnchor_BottomSheet_Behavior">com.jaborie.czj.gocharge.behavior.NoAnchorBottomSheetBehavior</string>
+</resources>
